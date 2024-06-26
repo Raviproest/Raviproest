@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Raviproest
+- 👋 Hi, I’m Ravi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Jquery
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript and C programming
 
 <!---
 Raviproest/Raviproest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
